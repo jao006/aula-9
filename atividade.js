@@ -20,7 +20,7 @@ function temaArgentina() {
   document.getElementById('paragrafo2').innerText = 'A capital da Argentina é Buenos Aires.';
 
   document.getElementById('galeria').innerHTML = `
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Coat_of_arms_of_Argentina.svg/724px-Coat_of_arms_of_Argentina.svg.png" alt="Argentina">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Coat_of_arms_of_Argentina.svg/724px-Coat_of_arms_of_Argentina.svg.png  " alt="Argentina">
     <img src="https://intercruzeiros.com.br/wp-content/uploads/2024/03/Cruzeiros-para-Argentina-e-Uruguai-.jpeg" alt="Buenos Aires">
     <img src="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic_2744265.jpg?w=1900&h=1267" alt="Patagônia">
     <img src="https://st2.depositphotos.com/8348572/11686/v/950/depositphotos_116863844-stock-illustration-argentine-couple-performing-tango-dance.jpg" alt="Tango Argentino">
