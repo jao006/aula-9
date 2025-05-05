@@ -24,6 +24,6 @@ function temaArgentina() {
     <img src="https://intercruzeiros.com.br/wp-content/uploads/2024/03/Cruzeiros-para-Argentina-e-Uruguai-.jpeg" alt="Buenos Aires">
     <img src="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic_2744265.jpg?w=1900&h=1267" alt="Patagônia">
     <img src="https://st2.depositphotos.com/8348572/11686/v/950/depositphotos_116863844-stock-illustration-argentine-couple-performing-tango-dance.jpg" alt="Tango Argentino">
-    <img src="https://www.kayak.com.br/news/wp-content/uploads/sites/12/2019/05/sancarlosdebariloche-400x320.jpg" alt="San Carlos de Bariloche">
+    <img src="https://i0.wp.com/folhametropolitana.com.br/site/wp-content/uploads/2022/12/Selecao-Argentina-de-Futebol.jpg?resize=1170%2C642&ssl=1" alt="Futebol">
   `;
 }
