@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Países</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Argentina_and_Brazil.svg/2560px-Flag_of_Argentina_and_Brazil.svg.png');
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+    }
+
+    .container {
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 40px;
+      border-radius: 15px;
+      text-align: center;
+    }
+
+    h1 {
+      margin-bottom: 30px;
+    }
+
+    button {
+      padding: 12px 24px;
+      margin: 10px;
+      font-size: 18px;
+      border: none;
+      border-radius: 8px;
+      background-color: #4CAF50;
+      color: white;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    .galeria img {
+      width: 400px;
+      margin: 30px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1 id="titulo">Escolha um País</h1>
+    <p id="paragrafo1"></p>
+    <p id="paragrafo2"></p>
+    <button onclick="temaBrasil()">Brasil</button>
+    <button onclick="temaArgentina()">Argentina</button>
+    <div class="galeria" id="galeria"></div>
+  </div>
+
+  <script src="atividade.js"></script>
+</body>
+</html>
